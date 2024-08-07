@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamkushagra28
 - 👀 I’m interested in Building Programs
-- 🌱 I’m currently learning .Net and Angular
+- 🌱 Work: .Net and Angular
 - 📫 How to reach me kushagrasingh28@gmail.com
 
 <!---
